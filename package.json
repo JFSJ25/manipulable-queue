@@ -2,6 +2,10 @@
   "name": "manipulable-queue",
   "version": "0.0.1",
   "description": "A manipulable Queue ADT written in TypeScript",
+  "homepage": "https://github.com/JFSJ25/manipulable-queue.git",
+  "repository": {
+    "url": "https://github.com/JFSJ25/manipulable-queue.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
