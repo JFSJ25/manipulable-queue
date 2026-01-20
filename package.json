@@ -1,6 +1,6 @@
 {
   "name": "manipulable-queue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A manipulable Queue ADT written in TypeScript",
   "homepage": "https://github.com/JFSJ25/manipulable-queue.git",
   "repository": {
